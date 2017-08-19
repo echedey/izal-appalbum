@@ -1,0 +1,8 @@
+# Add the following mp3s file here (if you own them) as:
+
+extranho_regalo_03_96.mp3
+magia_y_efectos_especiales_02_96.mp3
+prueba_y_error_01_96.mp3
+tu_continente_04_96.mp3
+
+
